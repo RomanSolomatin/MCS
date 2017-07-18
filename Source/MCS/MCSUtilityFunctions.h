@@ -25,4 +25,17 @@ public:
 			return false;
 		#endif
 	}
+
+	UFUNCTION(BlueprintPure, Category = "MCS Utility Library", meta = (DisplayName = "GetProjectVersion"))
+		static FString GetProjectVersion()
+	{
+		FString ProjectVersion;
+		GConfig->GetString(
+			TEXT("/Script/EngineSettings.GeneralProjectSettings"),
+			TEXT("ProjectVersion"),
+			ProjectVersion,
+			GGameIni
+		);
+		return ProjectVersion;
+	}
 };

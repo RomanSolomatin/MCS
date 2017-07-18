@@ -1,4 +1,3 @@
-#pragma once
 
 #include "MCSUtilityFunctions.h"
 #include "MCS.h"
