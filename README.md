@@ -50,8 +50,8 @@ Linux Server:
 https://drive.google.com/open?id=0Bya_230ID-1_RDFrZGh6SE03bFE
 
 
-You also have to add the patches:
-Extract the patch file in the zip to your /MCS/Content/Paks folder.
+<b>The following patches also need to be added.</b>  
+Extract the patch file in the zip to your /MCS/Content/Paks folder.</b>
 
 PATCHES
 -
