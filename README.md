@@ -1,9 +1,9 @@
 
 PROJECT
 -
-<b>Unreal Engine 4 Melee Combat System (aka Open Saber Project)<b>
+<b>Unreal Engine 4 Melee Combat System (aka Open Saber Project)</b>
 
-<b>Target Platform:<b> PC (Windows and Linux)
+<b>Target Platform:</b> PC (Windows and Linux)
 
 This is an open source project created by and for JK fans in an attempt to re-create the multiplayer melee combat in the Jedi Knight series of games using a modern game engine (UE4).
 
@@ -29,9 +29,9 @@ Any contribution(s) would be welcome.  Character models, animations, maps (level
 
 Project Info
 -
-Discord server: https://discord.gg/M25fJx4
+<b>Discord server:</b> https://discord.gg/M25fJx4
 
-Project Email: mcsgitproject@gmail.com
+<b>Project Email:</b> mcsgitproject@gmail.com
 
 PROTOTYPE BINARIES
 -
