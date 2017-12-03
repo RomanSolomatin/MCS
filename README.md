@@ -11,9 +11,7 @@ PROJECT
 
 <i>This project is NOT meant to be a one-to-one remake of Jedi Outcast/Jedi Academy, but as mentioned above, it focuses on the combat systems of those games.  Specifically, a free-flowing sword melee and movement system (including acrobatics) which may be used in any setting.</i>
 
-<b>Current State of the Project:</b>
-
-The project is currently in the prototype stage.  For multiplayer, it has a very basic menu system for the client to connect to a dedicated server via IP address (local host or Internet).  Basic movement and combat are implemented using animations (mostly) from Jedi Outcast.  In short, there is still a lot of work to be done.
+This project is currently in the prototype stage.  For multiplayer, it has a very basic menu system for the client to connect to a dedicated server via IP address (local host or Internet).  Basic movement and combat are implemented using animations (mostly) from Jedi Outcast.  In short, there is still a lot of work to be done.
 
 How to Contribute
 -
