@@ -31,7 +31,7 @@ Discord server: https://discord.gg/M25fJx4
 Project Email: mcsgitproject@gmail.com
 
 PROTOTYPE BINARIES
-=
+-
 Windows Client: 
 https://drive.google.com/open?id=0Bya_230ID-1_SDNwVC1vTVVvajA
 
@@ -49,7 +49,7 @@ You also have to add the patches:
 Extract the patch file in the zip to your /MCS/Content/Paks folder.
 
 PATCHES
-=
+-
 Windows Client: 
 https://drive.google.com/open?id=0Bya_230ID-1_eElYN05uMEl4RG8
 
