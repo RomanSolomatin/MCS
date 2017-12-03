@@ -21,8 +21,11 @@ The project is currently built using Unreal Engine 4 (version 4.16.2).  In the n
 This prototype is almost exclusively done using UE4’s blueprint system (so no C++ is required). 
 
 <b>1)</b> Download UE4 (version 4.16).
+
 <b>2)</b> Clone the "develop" branch of this repo (https://github.com/ClydeFrog68/MCS.git) to a local directory of your choice.
+
 <b>3)</b> Launch the UE4 editor, select "Browse..". and choose the "MCS.uproject" file from the cloned directory.
+
 <b>4)</b> Once inside the editor in the top toolbar -> source control (second from left), choose Git for source control and then "connect to source control".
 
 Any contribution(s) would be welcome.  Character models, animations, maps (levels), props, sounds, music, AI bots, anything.  If you have any questions, feel free to send me an email.  I’ll get back to you as soon as possible.
