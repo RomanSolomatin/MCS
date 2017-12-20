@@ -52,8 +52,12 @@ https://drive.google.com/open?id=0Bya_230ID-1_RDFrZGh6SE03bFE
 
 <b>The following patches also need to be added.</b>  
 Extract the patch file in the zip to your /MCS/Content/Paks folder.</b>
+You only need to apply the last patch.
 
 PATCHES
+-
+
+version 0.0.0.1p1
 -
 Windows Client: 
 https://drive.google.com/open?id=0Bya_230ID-1_eElYN05uMEl4RG8
@@ -66,3 +70,14 @@ https://drive.google.com/open?id=0Bya_230ID-1_SmFySUxCclMwdmM
 
 Linux Server: 
 https://drive.google.com/open?id=0Bya_230ID-1_aklBRERHZDVjSmc
+
+version 0.0.0.1p2
+-
+Patch notes: 
+https://drive.google.com/open?id=1_KRGtq_L0qEmbxyUmwT9BuEETWe4Z8kY
+
+Client: 
+https://drive.google.com/open?id=1qM8idIAeU_wLLUVNioRb06JCYa9b6bkm
+
+Server:
+https://drive.google.com/open?id=18WK9WV-p-gc5zi-Eu19sM6ce8RmQQmUJ
