@@ -33,7 +33,7 @@ Project Info
 -
 <b>Discord server:</b> https://discord.gg/M25fJx4
 
-<b>Project Email:</b> mcsgitproject@gmail.com
+<b>Project Email:</b> <i><b>mcsgitproject@gmail.com</b></i>
 
 PROTOTYPE BINARIES
 -
@@ -76,8 +76,8 @@ version 0.0.0.1p2
 Patch notes: 
 https://drive.google.com/open?id=1_KRGtq_L0qEmbxyUmwT9BuEETWe4Z8kY
 
-Client: 
+Windows Client: 
 https://drive.google.com/open?id=1qM8idIAeU_wLLUVNioRb06JCYa9b6bkm
 
-Server:
+Windows Server:
 https://drive.google.com/open?id=18WK9WV-p-gc5zi-Eu19sM6ce8RmQQmUJ
