@@ -35,49 +35,17 @@ Project Info
 
 <b>Project Email:</b> <i><b>mcsgitproject@gmail.com</b></i>
 
-PROTOTYPE BINARIES
+PROTOTYPE BINARIES (version 0.0.0.2)
 -
 Windows Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_SDNwVC1vTVVvajA
+https://drive.google.com/open?id=1DxdGWTqKHR4peg5I1oiUEfeAWxO8kT72
 
 Windows Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_emlQcmloSlNHM2s
+https://drive.google.com/open?id=1AbxwIp8BuLWml2451nEhB_K0KEi_fJnk
 
 Linux Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_ZW1oLW16YWJ6ZXc
+https://drive.google.com/open?id=1hYL_pfOwDXTFanrPg2wDtS55Avq3eP9q
 
 Linux Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_RDFrZGh6SE03bFE
+https://drive.google.com/open?id=1W7dHqMQYEYWOIXWrUMDFaCxb48nNmfoz
 
-
-<b>The following patches also need to be added.</b>  
-Extract the patch file in the zip to your /MCS/Content/Paks folder.</b>
-You only need to apply the last patch.
-
-PATCHES
--
-
-version 0.0.0.1p1
--
-Windows Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_eElYN05uMEl4RG8
-
-Windows Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_UnlpTU9ZcWJkNVk
-
-Linux Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_SmFySUxCclMwdmM
-
-Linux Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_aklBRERHZDVjSmc
-
-version 0.0.0.1p2
--
-Patch notes: 
-https://drive.google.com/open?id=1_KRGtq_L0qEmbxyUmwT9BuEETWe4Z8kY
-
-Windows Client: 
-https://drive.google.com/open?id=1qM8idIAeU_wLLUVNioRb06JCYa9b6bkm
-
-Windows Server:
-https://drive.google.com/open?id=18WK9WV-p-gc5zi-Eu19sM6ce8RmQQmUJ
