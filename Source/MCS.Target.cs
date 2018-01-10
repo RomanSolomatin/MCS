@@ -9,6 +9,7 @@ public class MCSTarget : TargetRules
 	{
 		Type = TargetType.Game;
 
-		ExtraModuleNames.AddRange( new string[] { "MCS" } );
-	}
+        //ExtraModuleNames.AddRange( new string[] { "MCS" } );
+        ExtraModuleNames.Add("MCS");
+    }
 }

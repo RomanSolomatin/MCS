@@ -9,6 +9,8 @@ public class MCSEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "MCS" } );
-	}
+		//ExtraModuleNames.AddRange( new string[] { "MCS" } );
+        ExtraModuleNames.Add("MCS");
+
+    }
 }
