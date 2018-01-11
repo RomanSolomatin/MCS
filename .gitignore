@@ -18,10 +18,7 @@ Content/Vehicles
 Content/Weapons
 Content/MCS/Maps/SunTemple.umap
 Content/MCS/Maps/SunTemple_BuiltData.uasset
-Content/SnSAnimsetPro
-Content/SwordAnimsetPro
 Content/Kejim_Post
-Content/Bespin
 *.VC.db
 *.opensdf
 *.opendb
