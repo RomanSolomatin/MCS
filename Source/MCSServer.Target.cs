@@ -10,6 +10,7 @@ public class MCSServerTarget : TargetRules
     public MCSServerTarget(TargetInfo Target) : base(Target)
     {
         Type = TargetType.Server;
+        //ExtraModuleNames.AddRange(new string[] { "MCS" });
         ExtraModuleNames.Add("MCS");
         //bUsesSteam = true;
     }
