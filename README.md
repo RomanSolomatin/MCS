@@ -35,17 +35,17 @@ Project Info
 
 <b>Project Email:</b> <i><b>mcsgitproject@gmail.com</b></i>
 
-PROTOTYPE BINARIES (version 0.0.0.2)
+PROTOTYPE BINARIES (version 0.0.0.3)
 -
 Windows Client: 
-https://drive.google.com/open?id=1DxdGWTqKHR4peg5I1oiUEfeAWxO8kT72
+https://drive.google.com/open?id=1b4DrWmpXmNC5bNYg2TXwBP1LoEPjXwhh
 
 Windows Server: 
-https://drive.google.com/open?id=1AbxwIp8BuLWml2451nEhB_K0KEi_fJnk
+https://drive.google.com/open?id=1UQqFquoH2LmN_P2a2cZfLmoKDUAQZ09-
 
 Linux Client: 
-https://drive.google.com/open?id=1hYL_pfOwDXTFanrPg2wDtS55Avq3eP9q
+https://drive.google.com/open?id=1enz61HZh3F5UVW8rJMDDDIxo7Ti0GLws
 
 Linux Server: 
-https://drive.google.com/open?id=1W7dHqMQYEYWOIXWrUMDFaCxb48nNmfoz
+https://drive.google.com/open?id=1BZebzLWTvTrWNMXKLDi7ab0ntW2-lkro
 
