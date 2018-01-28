@@ -36,32 +36,5 @@ Project Info
 
 PROTOTYPE BINARIES
 -
-Windows Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_SDNwVC1vTVVvajA
+Links to the binaries are located in the develop branch readme.
 
-Windows Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_emlQcmloSlNHM2s
-
-Linux Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_ZW1oLW16YWJ6ZXc
-
-Linux Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_RDFrZGh6SE03bFE
-
-
-<b>The following patches also need to be added.</b>  
-Extract the patch file in the zip to your /MCS/Content/Paks folder.</b>
-
-PATCHES
--
-Windows Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_eElYN05uMEl4RG8
-
-Windows Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_UnlpTU9ZcWJkNVk
-
-Linux Client: 
-https://drive.google.com/open?id=0Bya_230ID-1_SmFySUxCclMwdmM
-
-Linux Server: 
-https://drive.google.com/open?id=0Bya_230ID-1_aklBRERHZDVjSmc
