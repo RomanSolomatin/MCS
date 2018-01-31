@@ -14,11 +14,10 @@ This project is currently in the prototype stage.  For multiplayer, it has a ver
 
 How to Contribute
 -
-The project is currently built using Unreal Engine 4 (version 4.16.2).  In the near future it will be updated to the latest engine version (currently 4.18).
-
+The project is currently built using Unreal Engine 4 (version 4.18.2).
 This prototype is almost exclusively done using UE4’s blueprint system (so no C++ is required). 
 
-<b>1)</b> Download UE4 (version 4.16).
+<b>1)</b> Download UE4 (version 4.18).
 
 <b>2)</b> Clone the "develop" branch of this repo (https://github.com/ClydeFrog68/MCS.git) to a local directory of your choice.
 
