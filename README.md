@@ -51,7 +51,7 @@ https://drive.google.com/open?id=1BZebzLWTvTrWNMXKLDi7ab0ntW2-lkro
 
 NOTE:  You must also install this patch - just copy the file (*.pak) to your MCS\content\paks.  
 IMPORTANT!!!:  Remove the savegame from MCS\Saved\SaveGames (if you have one).  The game will make a new one.
-==================================================================
+-
 PATCHES (0.0.0.3p1)
 ==================================================================
 Windows Client: 
