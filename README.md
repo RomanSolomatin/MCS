@@ -49,9 +49,9 @@ https://drive.google.com/open?id=1enz61HZh3F5UVW8rJMDDDIxo7Ti0GLws
 Linux Server: 
 https://drive.google.com/open?id=1BZebzLWTvTrWNMXKLDi7ab0ntW2-lkro
 
-NOTE:  You must also install this patch - just copy the file (*.pak) to your MCS\content\paks.  
+<b>NOTE: You must also install this patch - just copy the file (*.pak) to your MCS\content\paks.</b>  
 <b>IMPORTANT:  Remove the savegame from MCS\Saved\SaveGames (if you have one).  The game will make a new one.</b>
--
+
 PATCHES (0.0.0.3p1)
 -
 Windows Client: 
