@@ -4,3 +4,6 @@
 
 #include "CoreMinimal.h"
 
+DECLARE_LOG_CATEGORY_EXTERN(MCS_LogGeneral, Log, All);
+DECLARE_LOG_CATEGORY_EXTERN(MCS_LogInit, Log, All);
+
