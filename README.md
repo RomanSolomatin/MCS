@@ -15,15 +15,17 @@ This project is currently in the prototype stage.  For multiplayer, it has a ver
 
 How to Contribute
 -
-The project is currently built using Unreal Engine 4 (version 4.18.2).
+The project is currently built using Unreal Engine 4 (version 4.18.3).
 
-This prototype is almost exclusively done using UE4’s blueprint system (so no C++ is required). 
+This prototype is almost exclusively done using UE4’s blueprint system (so no C++ is required), however, it is built using the UE4 source due to the fact that it requires a dedicated server.  You will need Visual Studio Community 2017 in order to re-build the project using the downloaded version of the engine.  Ensure that your Visual Studio installation is setup correctly for development with UE4 (https://docs.unrealengine.com/latest/INT/Programming/Development/VisualStudioSetup/).
+
+In order to create the binaries, you will also be required to download the UE4 source code (https://docs.unrealengine.com/latest/INT/Programming/Development/BuildingUnrealEngine/)
 
 <b>1)</b> Download UE4 (version 4.18).
 
 <b>2)</b> Clone the "develop" branch of this repo (https://github.com/ClydeFrog68/MCS.git) to a local directory of your choice.
 
-<b>3)</b> Launch the UE4 editor, select "Browse..". and choose the "MCS.uproject" file from the cloned directory.
+<b>3)</b> Right click on the ".uproject" file and "switch engine versions" and select 4.18.  When you try to launch the project you will be prompted to re-build.  If you have installed Visual Studio (with the required components for UE4), the project should build and launch the editor.  
 
 <b>4)</b> Once inside the editor in the top toolbar -> source control (second from left), choose Git for source control and then "connect to source control".
 
